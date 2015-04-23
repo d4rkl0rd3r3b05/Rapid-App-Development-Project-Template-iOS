@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Characters</key>
+	<dict>
+		<key>question_correctly_answered</key>
+		<integer>0</integer>
+		<key>is_movie_option_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_hint_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_fill_character_state_saved</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuestionType1Pic1Movie</key>
+	<dict>
+		<key>question_correctly_answered</key>
+		<integer>0</integer>
+		<key>is_movie_option_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_hint_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_fill_character_state_saved</key>
+		<integer>0</integer>
+	</dict>
+	<key>QuestionType4Pics1Movie</key>
+	<dict>
+		<key>question_correctly_answered</key>
+		<integer>0</integer>
+		<key>is_movie_option_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_hint_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_fill_character_state_saved</key>
+		<integer>0</integer>
+	</dict>
+	<key>Villains</key>
+	<dict>
+		<key>question_correctly_answered</key>
+		<integer>0</integer>
+		<key>is_movie_option_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_hint_state_saved</key>
+		<integer>0</integer>
+		<key>is_movie_fill_character_state_saved</key>
+		<integer>0</integer>
+	</dict>
+	<key>total_hints_availed</key>
+	<integer>0</integer>
+	<key>total_score</key>
+	<integer>30</integer>
+</dict>
+</plist>

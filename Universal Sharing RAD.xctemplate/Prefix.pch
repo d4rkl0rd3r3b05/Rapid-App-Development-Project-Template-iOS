@@ -1,0 +1,29 @@
+//
+//  Movie-Quiz.pch
+//  Movie Quiz
+//
+//  Created by Mayank on 16/12/14.
+//  Copyright (c) 2014 Infoedge. All rights reserved.
+//
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+
+#import "Constants.h"
+#import "Dimensions.h"
+#import "Colors.h"
+#import "Strings.h"
+#import "Bools.h"
+#import "Enums.h"
+#import "FunctionalMacro.h"
+
+
+#import "Utility.h"
+#import "DBHelper.h"
+#import "LeadboltOverlay.h"
+#import "AppTracker.h"
+
+#endif
